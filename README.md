@@ -1,6 +1,12 @@
 # Tkinter Assist
 Here is an extremly simple wrapper for the complicated Tkinter
 
+> [!WARNING]
+> This project is in early development. Breaking changes may occur.
+
+> [!NOTE]
+> This project has only been tested on Python 3.14.3
+
 # How To Use
 Simply download the `tkinterassist.py` file and add into your main folder.
 
@@ -23,6 +29,9 @@ window.run()
 ```
 
 # Documentation
+> [!IMPORTANT]
+> This documentation is not complete. It is likely that this will be moved to a different location later.
+
 In this documentation, `tkinterassist` will be displayed as `tka` instead.
 
 align options:
